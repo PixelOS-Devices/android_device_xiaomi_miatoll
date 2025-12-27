@@ -53,6 +53,7 @@
 -->
 
 <Included>
+    <Include href="media_codecs_c2_dolby_audio.xml" />
     <Settings>
         <Domain name="telephony" enabled="true" />
         <Setting name="max-video-encoder-input-buffers" value="11" />
@@ -269,4 +270,3 @@
         </MediaCodec>
     </Encoders>
 </Included>
-
